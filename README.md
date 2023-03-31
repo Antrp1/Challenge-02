@@ -1,11 +1,8 @@
 # Challenge-02
 
 ## Portfolio Webpage
-
-- The webpage was passed to me to get some enhancements.
-- I worked on this project because it was bland and not appealing to the eye.
-- This solved viewers interest once accessing the webpage.
-- I learned that not every developer thinks the same, and there are multiple different ways to apply the same code.
+- My professional portfolio.
+- Inlcuded is contact information as well as links to my professional resume.
   
   ## Description
   - I liked the original layout of the page but the colors were too plain, therefore I added some more eye pleasing colors.
