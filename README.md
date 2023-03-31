@@ -1,6 +1,6 @@
 # Challenge-02
 
-## Horiseon Webpage
+## Portfolio Webpage
 
 - The webpage was passed to me to get some enhancements.
 - I worked on this project because it was bland and not appealing to the eye.
